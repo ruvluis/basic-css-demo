@@ -1,0 +1,34 @@
+a {
+    color: white;
+    text-decoration: none; 
+    font-size: 1.2em; 
+    padding: 0.5em
+}
+
+a:hover{ 
+    color: white;
+    text-decoration: none; 
+    font-size: 2.0em; 
+    padding: 0.5em
+
+}
+
+nav {
+    background-color: rgb(34, 34, 34); 
+    text-align: center;
+
+}
+
+header {
+    text-decoration: none; 
+    font-size: 1.2em; 
+    padding: 0.5em
+}
+
+img {
+    width: 100%;
+}
+
+footer {
+    text-align: center;
+}
